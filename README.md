@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/armgnarda/LeetCode-Java/tree/master/0021-merge-two-sorted-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/armgnarda/LeetCode-Java/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/armgnarda/LeetCode-Java/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/armgnarda/LeetCode-Java/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
