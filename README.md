@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/armgnarda/LeetCode-Java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/armgnarda/LeetCode-Java/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/armgnarda/LeetCode-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/armgnarda/LeetCode-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/armgnarda/LeetCode-Java/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/armgnarda/LeetCode-Java/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/armgnarda/LeetCode-Java/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/armgnarda/LeetCode-Java/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
