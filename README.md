@@ -80,10 +80,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/armgnarda/LeetCode-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/armgnarda/LeetCode-Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/armgnarda/LeetCode-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/armgnarda/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/armgnarda/LeetCode-Java/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/armgnarda/LeetCode-Java/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/armgnarda/LeetCode-Java/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/armgnarda/LeetCode-Java/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/armgnarda/LeetCode-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
