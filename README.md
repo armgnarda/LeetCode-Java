@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/armgnarda/LeetCode-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/armgnarda/LeetCode-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/armgnarda/LeetCode-Java/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/armgnarda/LeetCode-Java/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
